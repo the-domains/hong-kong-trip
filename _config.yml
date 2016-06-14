@@ -1,0 +1,28 @@
+name: Hong Kong Trip
+favicon: null
+layout_spectrum: 0.48087060428224504
+typography_spectrum: 0.2327422045636922
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2010311798658222
+  lightness: 0.4417775741312653
+  saturation: 0.21277904487214983
+  rhythmicContrast: 0.33858966710977256
+purpose: []
